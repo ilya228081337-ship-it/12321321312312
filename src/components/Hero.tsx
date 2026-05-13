@@ -46,7 +46,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url("https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1600")',
+          backgroundImage: 'url("https://s3.twcstorage.ru/feb3eacb-3370-455e-90c8-5a1ef0867ac4/i.webp")',
         }}
       />
 
