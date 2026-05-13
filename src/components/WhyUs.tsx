@@ -30,7 +30,7 @@ const reasons = [
     title: 'Заявки сразу в удобный канал',
     description:
       'Подключаем CRM, Email, Telegram или WhatsApp. Ни одна заявка не потеряется — всё приходит туда, где удобно работать именно вам.',
-    image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://s3.twcstorage.ru/feb3eacb-3370-455e-90c8-5a1ef0867ac4/Equipo-humano-Boadas.webp',
     stat: '100%',
     statLabel: 'заявок доходят до вас',
     accent: '#B5956B',
