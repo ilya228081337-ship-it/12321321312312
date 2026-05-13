@@ -8,7 +8,7 @@ const reasons = [
     title: 'Быстрый запуск',
     description:
       'Запускаем сайт без долгого согласования и сложной разработки. От заявки до готового сайта — в разы быстрее, чем в традиционных агентствах.',
-    image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://s3.twcstorage.ru/feb3eacb-3370-455e-90c8-5a1ef0867ac4/s2w8179rtpyn2hbdlk9ko82xqyg0td1d.webp',
     stat: '7 дней',
     statLabel: 'средний срок запуска',
     accent: '#C8A882',
