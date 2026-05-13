@@ -170,18 +170,18 @@ export default function WhyUs() {
             </div>
 
             <div className="lg:pt-2">
-              <div className="bg-white/50 backdrop-blur-sm border border-white/60 rounded-2xl p-5 space-y-4">
+              <div className="bg-white backdrop-blur-sm border border-white shadow-[0_8px_32px_rgba(0,0,0,0.1)] rounded-2xl p-7 space-y-5">
                 <div>
-                  <p className="text-xs font-semibold text-[#C8A882] tracking-widest uppercase mb-2">Процесс</p>
-                  <p className="text-[#5C5550] text-sm leading-relaxed">
-                    От первого звонка до запуска сайта — всё прозрачно и без скрытых платежей
+                  <p className="text-xs font-bold text-[#C8A882] tracking-widest uppercase mb-3">Процесс</p>
+                  <p className="text-[#1A1714] text-base font-semibold leading-relaxed">
+                    От первого звонка до запуска — всё прозрачно и без скрытых платежей
                   </p>
                 </div>
-                <div className="h-px bg-gradient-to-r from-[#C8A882]/30 to-transparent" />
+                <div className="h-px bg-gradient-to-r from-[#C8A882]/40 via-[#8EA8A0]/20 to-transparent" />
                 <div>
-                  <p className="text-xs font-semibold text-[#8EA8A0] tracking-widest uppercase mb-2">Условие</p>
-                  <p className="text-[#5C5550] text-sm leading-relaxed">
-                    Сайт бесплатно, если станете клиентом одного из банков-партнеров
+                  <p className="text-xs font-bold text-[#8EA8A0] tracking-widest uppercase mb-3">Условие</p>
+                  <p className="text-[#1A1714] text-base font-semibold leading-relaxed">
+                    Сайт бесплатно при условии сотрудничества с одним из наших банков-партнеров
                   </p>
                 </div>
               </div>
