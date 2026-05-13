@@ -19,7 +19,7 @@ const reasons = [
     title: 'Разные форматы сайтов',
     description:
       'Делаем лендинги, многостраничные сайты и интернет-магазины. Каждый проект получает уникальный дизайн под характер бизнеса.',
-    image: 'https://s3.twcstorage.ru/feb3eacb-3370-455e-90c8-5a1ef0867ac4/s2w8179rtpyn2hbdlk9ko82xqyg0td1d.webp',
+    image: 'https://s3.twcstorage.ru/feb3eacb-3370-455e-90c8-5a1ef0867ac4/q6c15xaojko0gmv7tno14aipbp6bmx0w_1.webp',
     stat: '10+',
     statLabel: 'форматов сайтов',
     accent: '#8EA8A0',
